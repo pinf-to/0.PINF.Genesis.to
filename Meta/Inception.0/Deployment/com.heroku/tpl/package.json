@@ -1,0 +1,11 @@
+{
+  "name": "app",
+  "version": "0.0.0",
+  "main": "0/server.js",
+  "engines": {
+    "node": "^4.0.0"
+  },
+  "scripts": {
+    "install": "0/components/0.CloudIDE/for/pinf.genesis/scripts/install.sh"
+  }
+}

@@ -1,7 +1,0 @@
-{
-    "@": {
-        "$": [
-            "./Model/Inception.0/Deployment/{{ENV.PLATFORM_NAME}}.ccjson"
-        ]
-    }
-}
